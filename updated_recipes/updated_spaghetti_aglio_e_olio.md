@@ -6,11 +6,10 @@ Servings: **4**
 Active Time: **20 minutes**
 Total Time: **30 minutes**
 
-
-_By Emmy Clark_  
+# Notes
 A simple yet flavorful Italian dish made with spaghetti, garlic, and olive oil, perfect for a quick and satisfying meal.
 
-## Ingredients (Serves 4)
+# Ingredients
 - 12 oz spaghetti
 - 1/3 cup extra virgin olive oil
 - 6 garlic cloves, thinly sliced
@@ -20,6 +19,7 @@ A simple yet flavorful Italian dish made with spaghetti, garlic, and olive oil, 
 - Freshly ground black pepper, to taste
 - Lemon zest (optional, for garnish)
 
+# Directions
 1. Bring a large pot of salted water to a boil. Cook spaghetti according to package instructions until al dente.
 2. In a large skillet, heat the olive oil over medium heat.
 3. Add the drained spaghetti to the skillet, tossing to coat the noodles in the garlic oil.
@@ -29,4 +29,3 @@ A simple yet flavorful Italian dish made with spaghetti, garlic, and olive oil, 
 - **Storage**: Leftovers can be refrigerated in an airtight container for up to 2 days. Reheat gently with a splash of water or olive oil.
 - **Pro Tip**: Use high-quality olive oil and fresh garlic for the best flavor.
 
----
